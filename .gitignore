@@ -1,9 +1,7 @@
 # ============================================
 # DATA FILES
 # ============================================
-# Exclude all CSV files
-*.csv
-*.CSV
+
 
 # Other common data formats
 *.tsv
